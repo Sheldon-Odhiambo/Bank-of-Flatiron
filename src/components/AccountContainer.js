@@ -21,7 +21,6 @@ function AccountContainer() {
       <TransactionsList transactions={transaction} />
     </div>
   );
-  
 }
 
 export default AccountContainer;
